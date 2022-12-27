@@ -53,12 +53,3 @@ fetchusers();
 
 
 
-echo "# user-data" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/oladipupostephen/user-data.git
-git push -u origin main
-
-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
